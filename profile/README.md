@@ -1,6 +1,7 @@
-# Welcome to FiDB
+# Welcome to Mimor
 
-[ [WEBWITE](https://fidb.dev)
-| [MANUAL](https://readonly.link/manuals/https://cdn.fidb.dev/docs/manual.json) ]
+[ [WEBWITE](https://mimor.app)
+| [MANUAL](https://readonly.link/manuals/https://mimor.app/contents/manual/en.json)
+| [手册](https://readonly.link/manuals/https://mimor.app/contents/manual/zh.json) ]
 
-File system as database.
+Making memory a choice.

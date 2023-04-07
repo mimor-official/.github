@@ -1,3 +1,3 @@
-# FiDB on GitHub
+# Mimor on GitHub
 
-Meta repo of FiDB GitHub organization.
+Meta repo of Mimor GitHub organization.
